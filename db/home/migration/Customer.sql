@@ -17,4 +17,4 @@ INSERT INTO Customer (first_name, last_name, phone_number, district, street, hou
 VALUES ('John', 'Doe', '1234567890', 'District A', 'Street 1', 'House 123', 'Apartment 456', true, 'Toyota');
 ('Иванов', 'Иван', '1234567891', 'District A', 'Street 1', 'House 124', 'Apartment 43', true, 'Toyota');
 ('Петров', 'Пётр', '1234567810', 'District A', 'Street 1', 'House 113', 'Apartment 45', true, 'Toyota');
-;
+
